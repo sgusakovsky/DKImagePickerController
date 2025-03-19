@@ -3,10 +3,10 @@
     "pins": [
       {
         "package": "DKCamera",
-        "repositoryURL": "https://github.com/zhangao0086/DKCamera",
+        "repositoryURL": "https://github.com/ipao/DKCamera",
         "state": {
-          "branch": "master",
-          "revision": "5c691d11014b910aff69f960475d70e65d9dcc96",
+          "branch": "develop",
+          "revision": "bad93266b3bfda4c7fcdbd591434a67c50bdc9cc",
           "version": null
         }
       },
@@ -42,8 +42,8 @@
         "repositoryURL": "https://github.com/TimOliver/TOCropViewController",
         "state": {
           "branch": null,
-          "revision": "dad97167bf1be16aeecd109130900995dd01c515",
-          "version": "2.6.0"
+          "revision": "a634cb7cdfd580006e79a6e74e64417fe9e9783b",
+          "version": "2.7.4"
         }
       }
     ]
